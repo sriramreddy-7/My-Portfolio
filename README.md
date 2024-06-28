@@ -7,4 +7,4 @@ Welcome to my portfolio repository! This project showcases my skills, projects, 
 This portfolio is a comprehensive collection of my work as a developer. It includes a variety of projects that demonstrate my abilities in different programming languages and frameworks. The portfolio is designed to be a living document that evolves as I continue to grow and develop new skills.
 
 # Checkout My Portfolio
-[![Browser Link](https://img.icons8.com/ios-filled/50/000000/internet.png)](https://sriramreddy-7.github.io/My-Portfolio/)
+[![Browser Link](https://upload.wikimedia.org/wikipedia/commons/8/8e/Globe_icon.svg)](https://sriramreddy-7.github.io/My-Portfolio/)
